@@ -1,0 +1,8 @@
+# Netlify redirects
+/about      /pages/about.html       200
+/six-shifts /pages/six-shifts.html  200
+/services   /pages/services.html    200
+/client-praise /pages/client-praise.html 200
+/contact    /pages/contact.html     200
+/apply-now  /pages/contact.html     200
+/lets-talk  /pages/contact.html     200
